@@ -3,7 +3,7 @@ import google.generativeai as genai
 from PIL import Image
 
 # Configure API
-genai.configure(api_key="YOUR_API_KEY")
+genai.configure(api_key="AIzaSyAhuzsk1OldnDAqCRnAXP-79TvNFTaU-RY")
 
 # System prompt for image analysis
 system_prompt = "You are a helpful AI assistant that analyzes images. You provide clear, detailed, and accurate descriptions of what you see in images. Be specific about objects, people, settings, colors, and activities. Always be friendly and helpful in your descriptions."
